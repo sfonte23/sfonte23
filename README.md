@@ -1,6 +1,5 @@
-# Sérgio | Data Analyst & Full Stack Developer
-
-👋 Olá! Sou Sérgio, analista de dados e negócios com uma forte paixão por tecnologia e aprendizado contínuo. Com experiência em **análise de dados**, **web scraping**, **desenvolvimento full stack** e **gestão de ferramentas**, estou sempre em busca de novas oportunidades para aplicar e expandir minhas habilidades.
+## Data Analyst & Full Stack Developer 👋
+Sou analista de dados e negócios com uma forte paixão por tecnologia e aprendizado contínuo. Com experiência em **análise de dados**, **web scraping**, **desenvolvimento full stack** e **gestão de ferramentas**, estou sempre em busca de novas oportunidades para aplicar e expandir minhas habilidades.
 
 Atualmente, estou cursando **Gestão de Dados** e **Inteligência Artificial** na Universidade Federal do Piauí, além de ser recém-formado como **Full Stack Developer** pelo SENAI. Meus interesses principais são soluções que envolvam dados, automação de processos e inovação por meio da inteligência artificial ou atomatização de processos.
 
