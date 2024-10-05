@@ -28,10 +28,12 @@ Atualmente, estou cursando **Gestão de Dados** e **Inteligência Artificial** n
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=flat-square&logo=dot-net)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-FF9900?style=flat-square&logo=amazon-redshift&logoColor=white)
+
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Zendesk](https://img.shields.io/badge/-Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
 
@@ -54,6 +56,6 @@ Atualmente, estou cursando **Gestão de Dados** e **Inteligência Artificial** n
 
 ## 🌍 Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgio-fonte-319649138/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.fonte@yahoo.com)
+[![Yahoo Mail](https://img.shields.io/badge/-Yahoo_Mail-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:s.fonte@yahoo.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521983061714)
 
