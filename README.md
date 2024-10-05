@@ -62,3 +62,5 @@ Atualmente, estou cursando **Gestão de Dados** e **Inteligência Artificial** n
 [![Yahoo Mail](https://img.shields.io/badge/-Yahoo_Mail-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:s.fonte@yahoo.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521983061714)
 
+## Contribuições e Tecnologias Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfonte23&hide_progress=true)
