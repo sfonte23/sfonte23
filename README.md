@@ -2,12 +2,12 @@
 
 👋 Olá! Sou Sérgio, analista de dados e negócios com uma forte paixão por tecnologia e aprendizado contínuo. Com experiência em **análise de dados**, **web scraping**, **desenvolvimento full stack** e **gestão de ferramentas**, estou sempre em busca de novas oportunidades para aplicar e expandir minhas habilidades.
 
-Atualmente, estou cursando **Gestão de Dados** e **Inteligência Artificial** na Universidade Federal do Piauí, além de ser recém-formado como **Full Stack Developer** pelo SENAI. Meus interesses principais são soluções que envolvam dados, automação de processos e inovação por meio da inteligência artificial.
+Atualmente, estou cursando **Gestão de Dados** e **Inteligência Artificial** na Universidade Federal do Piauí, além de ser recém-formado como **Full Stack Developer** pelo SENAI. Meus interesses principais são soluções que envolvam dados, automação de processos e inovação por meio da inteligência artificial ou atomatização de processos.
 
 ## 💡 O que você pode esperar de mim
-- **Compromisso** com o aprendizado contínuo e a aplicação prática dos conhecimentos adquiridos.
+- **Compromisso** com o aprendizado contínuo e a aplicação prática dos conhecimentos adquiridos e treinamento de times
 - **Colaboração** em projetos que envolvem análise de dados, automação e desenvolvimento de software.
-- **Paixão** por transformar dados em insights acionáveis e criar soluções que fazem a diferença.
+- **Paixão** por transformar dados em insights acionáveis e criar soluções que fazem a diferença na organização
 
 ## ⚡️ Habilidades Técnicas
 
@@ -20,6 +20,7 @@ Atualmente, estou cursando **Gestão de Dados** e **Inteligência Artificial** n
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/-Google_Apps_Script-4285F4?style=flat-square&logo=google-apps-script&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white) 
 
 **Frameworks e Ferramentas**:
 
@@ -36,6 +37,9 @@ Atualmente, estou cursando **Gestão de Dados** e **Inteligência Artificial** n
 
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Zendesk](https://img.shields.io/badge/-Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
+![MessageBird](https://img.shields.io/badge/-MessageBird-1B9CFC?style=flat-square&logo=messagebird&logoColor=white)
+![Blip Chat Bot](https://img.shields.io/badge/-Blip_Chat_Bot-00BFFF?style=flat-square) 
+
 
 **Ferramentas de Análise**:
 
