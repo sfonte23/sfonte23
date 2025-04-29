@@ -1,12 +1,15 @@
 ## Data Analyst & Full Stack Developer 👋
-Sou analista de dados e negócios com uma forte paixão por tecnologia e aprendizado contínuo. Com experiência em **análise de dados**, **web scraping**, **desenvolvimento full stack** e **gestão de ferramentas**, estou sempre em busca de novas oportunidades para aplicar e expandir minhas habilidades.
 
-Atualmente, estou cursando **Gestão de Dados** e **Inteligência Artificial** na Universidade Federal do Piauí, além de ser recém-formado como **Full Stack Developer** pelo SENAI. Meus interesses principais são soluções que envolvam dados, automação de processos e inovação por meio da inteligência artificial ou automatização de processos.
+I am a Data and Business Analyst with a strong passion for technology and continuous learning. I have experience in **data analysis**, **web scraping**, **full stack development**, and **tool management**, and I am always seeking new opportunities to apply and grow my skills. Currently, I am studying **Data Management** and **Artificial Intelligence** at the Federal University of Piauí (BR) and working as Data analyst at Axenya (Data Helath Care Startup), also I'm graduated as a **Full Stack Developer** from SENAI and Tourism Manager at the UNIRIO. My main interests are data-driven solutions, process automation, and innovation through AI.
 
-## 💡 O que você pode esperar de mim
-- **Compromisso** com o aprendizado contínuo e a aplicação prática dos conhecimentos adquiridos e treinamento de times
-- **Colaboração** em projetos que envolvem análise de dados, automação e desenvolvimento de software.
-- **Paixão** por transformar dados em insights acionáveis e criar soluções que fazem a diferença na organização
+## 💡 What you can expect from me
+- **Commitment** to continuous learning, practical application of skills, and team training
+- **Collaboration** on projects involving data analysis, automation, and software development
+- **Passion** for transforming data into actionable insights and creating impactful solutions
+
+---
+
+Quer que eu também te envie uma versão ainda mais curta, se quiser deixar ainda mais direto?
 
 ## ⚡️ Habilidades Técnicas
 
