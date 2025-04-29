@@ -7,13 +7,8 @@ I am a Data and Business Analyst with a strong passion for technology and contin
 - **Collaboration** on projects involving data analysis, automation, and software development
 - **Passion** for transforming data into actionable insights and creating impactful solutions
 
----
-
-Quer que eu também te envie uma versão ainda mais curta, se quiser deixar ainda mais direto?
-
-## ⚡️ Habilidades Técnicas
-
-**Linguagens de Programação e Marcação**:
+## ⚡️ Technical Skills
+**Programming and Markup Languages:**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -24,7 +19,7 @@ Quer que eu também te envie uma versão ainda mais curta, se quiser deixar aind
 ![Google Apps Script](https://img.shields.io/badge/-Google_Apps_Script-4285F4?style=flat-square&logo=google-apps-script&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white) 
 
-**Frameworks e Ferramentas**:
+**Frameworks and Tools:**
 
 ![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?style=flat-square&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
@@ -43,7 +38,7 @@ Quer que eu também te envie uma versão ainda mais curta, se quiser deixar aind
 ![Blip Chat Bot](https://img.shields.io/badge/-Blip_Chat_Bot-00BFFF?style=flat-square) 
 
 
-**Ferramentas de Análise**:
+**Data Tools:**
 
 ![API REST](https://img.shields.io/badge/-API_REST-FF6F00?style=flat-square&logo=api)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -54,13 +49,13 @@ Quer que eu também te envie uma versão ainda mais curta, se quiser deixar aind
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-066DA5?style=flat-square&logo=scrapy&logoColor=white)
 
-**Testes de Software**:
+**Testing Software:**
 
 ![MSTest](https://img.shields.io/badge/-MSTest-007ACC?style=flat-square&logo=visual-studio&logoColor=white)
 ![xUnit](https://img.shields.io/badge/-xUnit-5C2D91?style=flat-square&logo=dot-net&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-## 🌍 Conecte-se comigo!
+## 🌍 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgio-fonte-319649138/)
 [![Yahoo Mail](https://img.shields.io/badge/-Yahoo_Mail-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:s.fonte@yahoo.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521983061714)
